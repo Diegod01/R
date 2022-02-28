@@ -15,7 +15,7 @@ prop.table(tabla, margin = 1)
 tabla_3 <- addmargins(tabla_prop * 100)
 tabla_3 #Frecuencia acumulada
 
-#Gráfica
+#GrÃ¡fica
 par(mfrow = c(1, 2))
 
 colores <- c("#80FFFF", "#FFFFFF")
@@ -29,7 +29,7 @@ barplot(tabla_2, col = colores)
 par(mfrow = c(1, 1))
 
 
-#Opcion 2 de gráfica
+#Opcion 2 de grÃ¡fica
 par(mfrow = c(1, 2))
 
 barplot(tabla, col = colores, beside = TRUE)
