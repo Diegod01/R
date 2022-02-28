@@ -1,1 +1,1 @@
-# Data Science and statistics wih R
+# Data Science and statistics with R
