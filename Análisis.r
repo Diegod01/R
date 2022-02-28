@@ -41,12 +41,12 @@ quantile(bicis, 0.75)
 IQR(bicis)
 
 var(bicis) #varianza
-(var(bicis))^0.5 #desviación estandar
+(var(bicis))^0.5 #desviaciÃ³n estandar
 sd(bicis)
 
 
 
-#análisis grafico de datos
+#anÃ¡lisis grafico de datos
 stem(bicis)
 hist(bicis)
 boxplot(bicis)
